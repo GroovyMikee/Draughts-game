@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="super-draughts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/super_draughts_jar</output-path>
+    <root id="archive" name="super-draughts.jar">
+      <element id="module-output" name="super-draughts" />
+    </root>
+  </artifact>
+</component>
